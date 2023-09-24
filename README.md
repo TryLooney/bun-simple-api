@@ -1,4 +1,4 @@
-# test
+# Bun Simple Api
 
 To install dependencies:
 

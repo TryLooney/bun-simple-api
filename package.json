@@ -1,5 +1,5 @@
 {
-  "name": "test",
+  "name": "bun-simple-api",
   "module": "src/index.ts",
   "type": "module",
   "scripts": {
