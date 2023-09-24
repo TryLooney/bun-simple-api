@@ -11,6 +11,11 @@
     "strict": true,
     "downlevelIteration": true,
     "skipLibCheck": true,
+    "paths": {
+      "@/*":["./src/*"],
+      "@settings/*":["./src/settings/*"],
+      "@database/*":["./src/database/*"]
+    },
     "jsx": "react-jsx",
     "allowSyntheticDefaultImports": true,
     "forceConsistentCasingInFileNames": true,
